@@ -11,10 +11,11 @@ Abstract : This project is to practice git.
 - Command mode: press ':' on Normal mode
 
 ## Installation
-'''shell
-$git clone{repo address}
-$cd {repo name}
-$vi README.md
+'''
+shell
+$ git clone{repo address}
+$ cd {repo name}
+$ vi README.md
 '''
 
 ## How to start
